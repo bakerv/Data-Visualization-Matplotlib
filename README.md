@@ -20,7 +20,7 @@ Two drugs, Capomulin and Ramicane, show promise as drug treatments. Mice treated
 
 ![SurvivalRatesStackedBar.png](https://github.com/bakerv/Matplotlib-challenge/blob/main/Images/SurvivalRatesStackedBar.png)
 
-Additionally, both drugs have demonstrated the ability to not only suppress tumor growth, but decrease tumor size. Both drugs had a median tumor volume, for the cohorts as a whole, that was less than the initial tumor volume. Indeed, 75% of mice in these cohorts showed a decrease in tumor size.
+Additionally, both drugs have demonstrated the ability to not only suppress tumor growth, but decrease tumor size. Both drugs had a median tumor volume, for the cohorts as a whole, that was less than the initial tumor volume. Indeed, more than 75% of mice in these cohorts showed a decrease in tumor size.
 
 ![TumorSizeBoxPlot.png](https://github.com/bakerv/Matplotlib-challenge/blob/main/Images/TumorSizeBoxPlot.png)
 
