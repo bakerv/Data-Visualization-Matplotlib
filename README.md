@@ -1,4 +1,4 @@
-# Matplotlib-challenge
+# Python Data Visualization
 This challenge uses the Matplotlib and Pandas libraries for Python to manipulate and visualize multiple data sets. Jupyter notebooks is used to easily carry out sequantial operations, and visualize plots as they are being created. 
 
 ![code_sample.png](https://github.com/bakerv/Matplotlib-challenge/blob/main/Images/code_sample.PNG)
